@@ -117,3 +117,5 @@ nav>a, .nav-dropdown-trigger{font-size:17px;font-weight:700;letter-spacing:.1px}
  .hero-slide-arrow.left{left:18px}.hero-slide-arrow.right{right:18px}
  .hero-slide-dots{bottom:31px}
 }
+
+.nav-feature-link{border:0;background:transparent;color:#24342d;font:600 15px DM Sans,Arial;cursor:pointer;padding:8px 0}.nav-feature-link:hover{color:#d98b24}.umrah-seo-content{max-width:1100px;margin:48px auto;padding:36px 7%;background:#fff;border-radius:18px;line-height:1.8;color:#34443c}.umrah-seo-content h2,.umrah-seo-content h3{color:#173f32;line-height:1.3}.umrah-seo-content h2{font-size:clamp(25px,3vw,36px)}.umrah-seo-content h3{margin-top:28px;font-size:22px}.umrah-seo-content h4{margin:20px 0 4px;color:#173f32}.umrah-seo-content p{margin:10px 0}.umrah-seo-content li{margin:7px 0}.umrah-seo-content ul{padding-left:22px}@media(max-width:900px){.nav-feature-link{width:100%;text-align:left;padding:12px 0;font-size:16px}.umrah-seo-content{margin:28px 16px;padding:25px 20px}}
